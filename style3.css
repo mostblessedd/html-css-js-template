@@ -1,0 +1,41 @@
+html {
+    background: url('img/Aangbackgroound.png') no-repeat top fixed;
+    background-size : cover;
+    
+}
+
+body {
+    width: 600px;
+    margin: 30px auto;  
+    text-align: center;
+    font-size: large;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+   margin-top:350px;
+}
+
+a {
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+    padding: 0 25px;
+    font-family: monospace;
+}
+
+input {
+    width: 200px;
+}
+
+
+button {
+    border-radius: 25px;
+    font-size: larger
+}
+
+button:hover {
+    background-color:rgba(174, 129, 38, 0.841);
+    color: white;
+    cursor: pointer;
+}
